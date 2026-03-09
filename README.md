@@ -63,9 +63,7 @@ python train.py
 
 Training results will be saved to:
 
-```bash
 ./runs/detect/train
-```
 
 The best model will be stored at:
 
